@@ -37,18 +37,6 @@ body{
 
 }
 
-
-.table1{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    background-color: white;
-    width: 360px;
-
-
-}
-
 .table1 input{
     width: 328px;
     height: 48px;
@@ -68,8 +56,6 @@ body{
 }
 
 
-
-
 .table2{
     display: flex;
     flex-direction: column;
@@ -78,7 +64,6 @@ body{
     background-color: white;
     width: 360px;
     height: 576px;
-
 }
 
 .table2 .code{
@@ -116,7 +101,7 @@ body{
     color: #FFFFFF;
     background-color: #232529;
     border-radius: 4px;
-    width: 384px;
+    width: 328px;
     height: 48px;
     font-weight: 400;
     font-size: 20px;
@@ -135,7 +120,7 @@ body{
     flex-direction: column;
     background-color: white;
     width: 360px;
-    height: 576px;
+    height: 925px;
 }
 
 .clients{
@@ -150,15 +135,12 @@ body{
     font-family: Arial;
     font-weight: 400;
     font-size: 14px;
-
-
 }
 
 .persona2{
     font-family: Arial;
     font-weight: 400;
     font-size: 14px;
-
 }
 
 .data1{
