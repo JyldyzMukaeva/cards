@@ -31,8 +31,8 @@ body{
     align-items: center;
     justify-content: center;
     background-color: white;
-    width: 640px;
-    height: 264px;
+    width: 360px;
+    height: 576px;
 
 }
 
@@ -53,9 +53,6 @@ body{
     margin-bottom: 48px;
     cursor: pointer;
 }
-
-
-/*//////////////////////////*/
 
 .table2{
     display: flex;
