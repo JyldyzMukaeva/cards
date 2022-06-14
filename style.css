@@ -3,7 +3,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    /*height: 100vh;*/
 
 }
 
@@ -120,115 +120,61 @@ body{
     flex-direction: column;
     background-color: white;
     width: 360px;
+    height: 800px;
+    margin: 0;
 
 }
-
 .clients{
     font-family: Arial;
     font-weight: 600;
-    font-size: 16px;
+    font-size: 18px;
     color: #000000;
-    margin-top: 40px;
-    margin-left: 20px;
+    margin-top: 96px;
+    margin-left: 16px;
 }
+
 .persona1{
     font-family: Arial;
-    font-weight: 400;
-    font-size: 14px;
+    font-weight: 600;
+    font-size: 16px;
+    margin-left: 16px;
 }
 
-.persona2{
+.table3 .persona{
     font-family: Arial;
     font-weight: 400;
     font-size: 14px;
+    margin-left: 16px;
 }
-
-.data1{
-    margin-left: 24px;
-}
-.data1 input{
-    width: 200px;
-    height: 48px;
-    font-size: 14px;
-    font-weight: 400;
-
-}
-
-.data2{
-    margin-left: 24px;
-    margin-bottom: 16px;
-}
-
-.data3{
-    margin-left: 24px;
-    margin-bottom: 16px;
-}
-
-.data4{
-    margin-left: 24px;
-    margin-bottom: 16px;
-}
-
-.data5{
-    margin-left: 24px;
-}
-
-.birthdate{
-    width: 200px;
-    height: 48px;
-    font-size: 14px;
-    font-weight: 400;
-
-}
-
-.residence{
-    width: 408px;
-    height: 48px;
-    font-size: 14px;
-    font-weight: 400;
-}
-
-.data3 input{
-    width: 200px;
-    height: 48px;
-    font-size: 14px;
-    font-weight: 400;
-
-}
-
-.data4 input{
-    width: 200px;
-    height: 48px;
-    font-size: 14px;
-    font-weight: 400;
-
-}
-
-.data5 input{
-    width: 408px;
-    height: 48px;
-    font-size: 14px;
-    font-weight: 400;
-}
-
 
 .table3 input{
     border-radius: 8px;
     border: 0.5px solid #AEAEAE;
+    margin-left: 16px;
 }
-
 
 .table3 button{
     color: #FFFFFF;
     background-color: #232529;
     border-radius: 4px;
-    width: 384px;
+    width: 328px;
     height: 48px;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 16px;
     line-height: 25px;
-    margin-right: 140px;
-    margin-left: 140px;
-    margin-top: 25px;
+    margin-right: 16px;
+    margin-left: 16px;
+    margin-top: 24px;
     cursor: pointer;
+}
+/*//////////////////////////*/
+
+
+.table4{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 360px;
+    height: 1335px;
+    margin: 0;
 }
