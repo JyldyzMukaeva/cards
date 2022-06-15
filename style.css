@@ -242,9 +242,49 @@ body{
 /*////////////////////////////////////*/
 
 .table5{
-    display: flex;
-    flex-direction: column;
     background-color: #929292;
     width: 360px;
     height: 781px;
+}
+
+.request1{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 328px;
+    height: 328px;
+    margin: 224px 16px 229px 16px;
+    align-items: center;
+}
+
+.request2{
+    font-family: Arial;
+    font-weight: 600;
+    font-size: 16px;
+    margin: 48px 40px 8px 40px;
+}
+
+.request3{
+    font-family: Arial;
+    font-weight: 400;
+    font-size: 14px;
+    margin-right: 36px;
+    margin-bottom: 28px;
+    margin-left: 36px;
+    color: #A9A9A9;
+}
+
+.table5 button{
+    color: #FFFFFF;
+    background-color: #232529;
+    border-radius: 4px;
+    width: 296px;
+    height: 48px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    margin-right: 16px;
+    margin-left: 16px;
+    margin-top: 28px;
+    cursor: pointer;
 }
